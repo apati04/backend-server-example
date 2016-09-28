@@ -1,0 +1,5 @@
+controller architecture
+
+incoming request -> router
+router chooses either auth, comments, or posts controller
+then sends back response
